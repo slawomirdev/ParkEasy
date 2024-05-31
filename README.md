@@ -64,9 +64,7 @@ The mockups cover the following key screens and functionalities:
 
   
   
-Mockups published at URL: [https://www.figma.com/design/Lt24mHhvhvak6C14ONXyDo/ParkEasy?m=auto&t=5TVOHQ8BGTd8D8nm-6  
-  
-](https://www.figma.com/design/Lt24mHhvhvak6C14ONXyDo/ParkEasy?m=auto&t=5TVOHQ8BGTd8D8nm-6)
+Mockups published at URL: [https://www.figma.com/design/Lt24mHhvhvak6C14ONXyDo/ParkEasy?m=auto&t=5TVOHQ8BGTd8D8nm-6](https://www.figma.com/design/Lt24mHhvhvak6C14ONXyDo/ParkEasy?m=auto&t=5TVOHQ8BGTd8D8nm-6)
 
   
 
